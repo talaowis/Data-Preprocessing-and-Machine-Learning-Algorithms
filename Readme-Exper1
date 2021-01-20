@@ -1,0 +1,25 @@
+This is the first experiment :
+
+Preprocessing Steps :
+1-Features Encoding
+2-Missing Values -KNN Imputer
+3-train/test split 0.66 -0.34
+4-Feature Selection
+5- OverSampling -SMOTENC
+
+
+
+Results for :
+1-Decision Tree
+2-KNN
+3-SVM
+4-Sequential -Feed Forward -ANN
+
+the results are in files with "ALGO"confusion_matrix.csv
+,"ALGO"classreport.csv in the folder DataMining__Algorithms Results\Results\Exper1
+
+
+this experiment has been done "with" scaling the xtrain,xtest sets before applying ANN.
+
+#Data Sets after preprocessing and figures for the data preprocessing phase will be found in the folder:
+DataMining__Algorithms Results\Results\Exper1\preprocessing
