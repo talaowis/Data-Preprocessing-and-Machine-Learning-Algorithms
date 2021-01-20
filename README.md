@@ -2,9 +2,12 @@
 
 This example runs different algorithms such as :
 
-1-Decision Tree
+1-Decision Tree 
+
 2-KNN
+
 3-SVM
+
 4-Sequential -Feed Forward -ANN
 
 in different preprocessing steps , it aims to clarify which preprocessing steps has achieved the best precision,recall,f1-score,support.
